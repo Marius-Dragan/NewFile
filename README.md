@@ -54,6 +54,7 @@ Now, you can trigger the script directly from the Finder toolbar with a single c
 	• Modify the list of file types in the choose from list section.
 	• Change the default file type (default items {"Text (.txt)"}).
 	• Update or add new file types using similar logic in the script.
+ 	• You can change the appearance by replacing the file in location /Path-to-application/NewFile.app/Contents/Resources and replace with icon ApplicationStub.icns and that will overwrite the default automator icon.
 
 ## Notes
 	• Requires installed applications for specific file types (e.g., Microsoft Word, Pages).
