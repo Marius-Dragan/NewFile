@@ -14,6 +14,7 @@ This script enables macOS users to create blank files of various types directly 
 	1. Open the Script Editor on your Mac.
 	2. Copy and paste the provided AppleScript into the editor.
 	3. Save the script as an .scpt file or application.
+ 	4. Or you can download the script from here CreateNewFile.scpt and use it or with Apple Script or Automator.
 
 ## Adding to Automator and Finder Toolbar
 	1. Open Automator and create a new Application.
